@@ -6,11 +6,11 @@ function remove(predFunc, array) {
         result = [],
         index = -1;
 
-    while(++index < len) {
+    while (++index < len) {
 
-        if (!predFunc(array[ index ])) {
+        if (!predFunc(array[index])) {
 
-            result[ result.length ] = array[ index ];
+            result[result.length] = array[index];
 
         }
 
