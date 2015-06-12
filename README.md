@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bakasho-libs/remove.svg?branch=master)](https://travis-ci.org/bakasho-libs/remove)
+
 ## remove
 
 returns an array of items for which predFunc returns false
