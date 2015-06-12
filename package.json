@@ -1,7 +1,7 @@
 {
   "name": "remove",
   "version": "0.0.1",
-  "description": "TODO: WRITE ME",
+  "description": "returns an array of items for which predFunc returns false",
   "repository": {
     "type": "git",
     "url": "https://github.com/bakasho-libs/remove.git"
