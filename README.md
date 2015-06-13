@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bakasho-libs/remove.svg?branch=master)](https://travis-ci.org/bakasho-libs/remove)
+[![Build Status](https://travis-ci.org/bakasho-libs/core.remove.svg?branch=master)](https://travis-ci.org/bakasho-libs/core.remove)
 
 ## core.remove
 
